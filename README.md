@@ -63,7 +63,7 @@ python roberta_fakenews.py --epochs 3 --batch_size 16 --lr 2e-5
 | AUC       | 1.00(0.99+)               |
 | EER       | 0.0003 @ Threshold 0.9833 |
 
-The RoBERTa model outperformed other baseline models including FakeBERT, a BERT variant designed specifically for fake news detection, demonstrating superior generalization and robustness across all evaluation metrics.
+- The RoBERTa model outperformed other baseline models including FakeBERT, a BERT variant designed specifically for fake news detection, demonstrating superior generalization and robustness across all evaluation metrics.
 ---
 
 ##  Visualizations
