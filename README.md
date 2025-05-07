@@ -52,7 +52,7 @@ python roberta_fakenews.py --epochs 3 --batch_size 16 --lr 2e-5
 
 ---
 
-## 📊 Sample Results
+## 📊 Results
 
 | Metric    | Score                     |
 | --------- | ------------------------- |
